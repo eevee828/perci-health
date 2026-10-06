@@ -1,0 +1,10 @@
+partner_member_id,first_name,last_name,date_of_birth,email,policy_start,policy_end
+P-1001,Alice,Johnson,1988-03-12,alice.johnson@example.com,2024-01-01,2024-12-31
+P-1002,Bilal,Khan,1975-11-02,bilal.khan@example.com,2023-06-01,
+P-1003,Carla,Mendes,1990-07-22,carla.mendes@example.com,2025-01-01,2025-06-30
+P-1004,Dan,Ng,1982-09-09,dan.old@example.com,2022-01-01,2022-12-31
+P-1004,Dan,Ng,1982-09-09,dan.new@example.com,2023-01-01,2023-12-31
+P-2001,,Garcia,1995-04-18,garcia@example.com,2025-01-01,2025-12-31
+P-2002,Eve,Thompson,18/04/1995,eve.thompson@example.com,2025-01-01,2025-12-31
+P-2003,Frank,Lee,1980-01-01,frank-lee-at-example.com,2025-01-01,2025-12-31
+P-2004,Grace,Kim,1992-02-02,grace.kim@example.com,2025-06-01,2025-01-01
